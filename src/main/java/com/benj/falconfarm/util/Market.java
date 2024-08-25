@@ -1,8 +1,5 @@
 package com.benj.falconfarm.util;
 
-import java.util.Arrays;
-import java.util.List;
-
 public class Market {
     public static TreeNode SHOP = new TreeNode("Root");
     public static TreeNode compressors_P1 = SHOP.addNode(new TreeNode("ᴄᴏᴍᴘʀᴇssᴏʀs"));

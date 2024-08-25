@@ -2,8 +2,6 @@ package com.benj.falconfarm.util;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.ArrayList;
-import java.util.List;
 
 public class TreeNode {
     public String name;
